@@ -1,2 +1,1 @@
-# bd-24
- 
+# Repositório referente a matéria de Banco de Dados / Informática P4 2024.2
